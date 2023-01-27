@@ -10,3 +10,4 @@ In summary, DevSecOps is a Rugged experiment intended to help us understand how 
 
 You can find more details here: [What is DevSecOps?](./01_What_is_DevSecOps.md) and also by reading the LinkedIn [post](https://www.linkedin.com/pulse/what-devsecops-shannon-lietz?trkInfo=VSRPsearchId%3A946311454203481351%2CVSRPtargetId%3A6008272002333294592%2CVSRPcmpt%3Aprimary&trk=vsrp_influencer_content_res_name) first introduced on the DevSecOps web site. 
 
+
